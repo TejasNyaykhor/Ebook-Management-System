@@ -28,9 +28,9 @@ A web application built using Java, JSP, Servlets, and MySQL to manage eBooks an
 
 > Add your screenshots inside `/screenshots/` and update these:
 
-![Login Page](screenshots/Adminpage.Gif)
+![Home Page](screenshots/Homepage.gif)
 ![Admin Panel](screenshots/Adminpage.gif)
-
+![Login Page](screenshots/loginPage.gif)
 ---
 
 ## ⚙️ How to Run the Project
